@@ -1,0 +1,91 @@
+.Body{
+    border: 2px;
+    border-color: black;
+    border-style: solid;
+    margin: 20px 20px;
+}
+.heading{
+    text-align: center;
+    color:blue;
+}
+.nav{
+    text-align: center;
+    background-color: darksalmon;
+    font-size: 50px;
+    border: 2px;
+    border-color: black;
+    border-style: solid;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin: 20px;
+}
+.list{
+    font-size:50px ;
+    float:left;
+    width:30%;
+    border: 2px;
+    border-color: black;
+    border-style: solid;
+    text-align: center;
+    margin-left: 20px;
+}
+.dots{
+    border: 2px;
+    border-color: black;
+    border-style: solid;
+    margin: 30px 30px;
+    
+}
+.e{
+    border: 2px;
+    border-color: black;
+    border-style: solid;
+    margin: 30px 30px;
+}
+.f{
+    border: 2px;
+    border-color: black;
+    border-style: solid;
+    margin: 30px 30px;
+}
+.g{
+    border: 2px;
+    border-color: black;
+    border-style: solid;
+    margin: 30px 30px;
+}
+.dots2{
+    border: 2px;
+    border-color: black;
+    border-style: solid;
+    margin: 30px 30px;
+}
+.new{
+    text-align: center;
+    float: right;
+    width:60%;
+    border: 2px;
+    border-color:greenyellow;
+    border-style: solid;
+    margin:20px;
+   
+}
+.area{
+    padding-top: 30%;
+    padding-bottom: 26%;
+    font-size: 30px;
+
+
+}
+.foot{
+    text-align: center;
+    border: 5px;
+    border-style: solid;
+    border-color: black;
+    margin-top: 50%;
+    background-color: greenyellow;
+    margin-left:20px ;
+    margin-right:20px ;
+
+
+}
